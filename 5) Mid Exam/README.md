@@ -3,8 +3,12 @@
 ## Overview
 
 * This is the mid exam for the training, the requested tasks and the problem will be found at  the `.pdf` file.
-* I have done the documentation using [word](https://1drv.ms/w/c/2010438124a266cd/IQDk1qrGrT1uTKeJh-mwLr3fAf--Nd10xUbeL0lLMVbUf54?e=TtPLcP) .
 
+
+
+
+
+## Info
 
 * This is just the front-end code I will deploy on the public web app
 
