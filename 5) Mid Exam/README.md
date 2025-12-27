@@ -3,7 +3,8 @@
 ## Overview
 
 * This is the mid exam for the training, the requested tasks and the problem will be found at  the `.pdf` file.
-
+* I have made a report that describe the solutions and steps I have made, it's the `.docx` file.
+* The scripts I have used inside the instance are exists at `config-script-files` folder.
 
 
 
