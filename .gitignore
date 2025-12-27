@@ -1,0 +1,6 @@
+# Ignore LibreOffice/Word lock files
+.~lock.*#
+# Ignore temporary Office files
+~$*
+
+8)\ Serverless-HealthBooking
