@@ -1,0 +1,1 @@
+* The point of this lab is to figure out the flag, starting from the cat file.
