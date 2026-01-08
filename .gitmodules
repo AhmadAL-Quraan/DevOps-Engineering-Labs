@@ -7,3 +7,6 @@
 [submodule "11) Managing a Project with Git & GitHub/Github-task"]
 	path = 11) Managing a Project with Git & GitHub/Github-task
 	url = https://github.com/AhmadAL-Quraan/Github-task
+[submodule "9) Serverless-HealthBooking"]
+	path = 9) Serverless-HealthBooking
+	url = https://github.com/AhmadAL-Quraan/Serverless-HealthBooking
