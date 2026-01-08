@@ -16,3 +16,6 @@
 [submodule "10) Final/1) HTU-Environment-Rebuild"]
 	path = 10) Final/1) HTU-Environment-Rebuild
 	url = https://github.com/AhmadAL-Quraan/HTU-Environment-Rebuild
+[submodule "6) Mid-Scenario-Enterprise-Cloud-Migration-Internal-Infrastructure-Rebuild-for-QTech"]
+	path = 6) Mid-Scenario-Enterprise-Cloud-Migration-Internal-Infrastructure-Rebuild-for-QTech
+	url = git@github.com:AhmadAL-Quraan/Scenario-Enterprise-Cloud-Migration-Internal-Infrastructure-Rebuild-for-QTech.git
